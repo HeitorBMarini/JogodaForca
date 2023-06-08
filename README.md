@@ -21,7 +21,7 @@ A simple Hangman game implemented in Python, of course Alura
 
 ## Technologies Used
 
-- Python ![python](https://emojiapi.dev/emoji/python/)
+- Python 
   - We used Python version 3.9 to develop this Hangman game.
 
 ## Features
